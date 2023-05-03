@@ -1,7 +1,7 @@
 # Trello Clone
 ## _Full Stack, Using Websocket, SocketIO_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
 
  MEAN fullstack with Angular, Express, Node, Typescript, Socket io, MongoDB
 
